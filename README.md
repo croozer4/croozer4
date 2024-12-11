@@ -1,5 +1,5 @@
 
-# Hello there! 👋
+# Hello friend! 👋
 
 I'm **Konrad**, a passionate programming student from Poland 🇵🇱
 
